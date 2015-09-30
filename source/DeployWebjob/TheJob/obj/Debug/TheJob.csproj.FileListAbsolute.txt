@@ -1,0 +1,6 @@
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\bin\Debug\TheJob.exe.config
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\bin\Debug\TheJob.exe
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\bin\Debug\TheJob.pdb
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\obj\Debug\TheJob.csprojResolveAssemblyReference.cache
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\obj\Debug\TheJob.exe
+C:\dev\projects\webjobdeploy\source\DeployWebjob\TheJob\obj\Debug\TheJob.pdb
